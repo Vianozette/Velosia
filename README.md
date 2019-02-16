@@ -1,2 +1,0 @@
-# Velosia
-CSS THEME DISCORD
